@@ -1,3 +1,6 @@
 [submodule "datastore-backend"]
 	path = datastore-backend
 	url = https://github.com/ankit-work-agarwal/datastore-backend
+[submodule "datastore-frontend"]
+	path = datastore-frontend
+	url = https://github.com/ankit-work-agarwal/datastore-frontend.git
